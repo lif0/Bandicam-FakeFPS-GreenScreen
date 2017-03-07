@@ -1,0 +1,12 @@
+D:\ProjectC#All\FakeFPS\FakeFPS\bin\Debug\FakeFPS.exe.config
+D:\ProjectC#All\FakeFPS\FakeFPS\bin\Debug\FakeFPS.exe
+D:\ProjectC#All\FakeFPS\FakeFPS\bin\Debug\FakeFPS.pdb
+D:\ProjectC#All\FakeFPS\FakeFPS\obj\Debug\FakeFPS.csprojResolveAssemblyReference.cache
+D:\ProjectC#All\FakeFPS\FakeFPS\obj\Debug\FakeFPS.Form1.resources
+D:\ProjectC#All\FakeFPS\FakeFPS\obj\Debug\FakeFPS.Properties.Resources.resources
+D:\ProjectC#All\FakeFPS\FakeFPS\obj\Debug\FakeFPS.csproj.GenerateResource.Cache
+D:\ProjectC#All\FakeFPS\FakeFPS\obj\Debug\FakeFPS.exe
+D:\ProjectC#All\FakeFPS\FakeFPS\obj\Debug\FakeFPS.pdb
+D:\ProjectC#All\1Project\FakeFPS\FakeFPS\bin\Debug\FakeFPS.exe.config
+D:\ProjectC#All\1Project\FakeFPS\FakeFPS\obj\Debug\FakeFPS.exe
+D:\ProjectC#All\1Project\FakeFPS\FakeFPS\obj\Debug\FakeFPS.pdb
