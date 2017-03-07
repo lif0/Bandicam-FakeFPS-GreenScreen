@@ -1,5 +1,6 @@
 # FakeFPS
 Program for add fake FPS in game,when editing video(Google translator)
+I do not know why you might need this program, it just exists and end.
 
 <li>ScreenShot -
 
